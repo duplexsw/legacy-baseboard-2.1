@@ -1,0 +1,1 @@
+x=msgbox("ACT Baseboard Checker has detected corruption. 'baseboard.ppsx' is missing or corrupted. Repair ACT Baseboard to resolve this issue.",0+16,"ACT Baseboard Checker")

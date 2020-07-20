@@ -1,0 +1,1 @@
+x=msgbox("ACT Baseboard Checker has detected corruption. It is recommended that you repair ACT Baseboard to prevent problems.",,"ACT Baseboard Checker (chkBaseboard.exe)")
